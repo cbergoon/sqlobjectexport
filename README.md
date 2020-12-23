@@ -1,6 +1,6 @@
 <h1 align="center">sqlobjexport</h1>
 <p align="center">
-<a href="https://godoc.org/github.com/cbergoon/sqlobjexport"><img src="https://img.shields.io/badge/godoc-reference-brightgreen.svg" alt="Docs"></a>
+<a href="https://godoc.org/github.com/cbergoon/sqlobjectexport"><img src="https://img.shields.io/badge/godoc-reference-brightgreen.svg" alt="Docs"></a>
 <a href="#"><img src="https://img.shields.io/badge/version-0.1.0-brightgreen.svg" alt="Version"></a>
 </p>
 
